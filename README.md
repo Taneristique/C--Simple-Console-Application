@@ -1,4 +1,4 @@
-# C-Simple-Console-Application
+# C++-Simple-Console-Application
 This is an application does five simple action:
 
 ## 1st
